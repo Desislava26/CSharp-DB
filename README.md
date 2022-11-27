@@ -12,4 +12,5 @@ This is my homework from SoftUni courses.
 7. Functions and Stored Procedures
 8. Triggers and Transactions
 
+
 * Entity Framework
