@@ -1,7 +1,7 @@
 # CSharp-DB
 This is my homework from SoftUni courses.
 
-- The repository will include exercises with:
+-- The repository will include exercises with:
 * MS SQL
 1. Databases Introduction
 2. CRUD
