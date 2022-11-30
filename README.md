@@ -1,4 +1,4 @@
-# CSharp-DB
+# MS SQL And Entity Framework
 This is my homework from SoftUni courses.
 
 -- The repository will include exercises with:
