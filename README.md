@@ -1,4 +1,4 @@
-# MS SQL And Entity Framework
+# MS SQL & Entity Framework
 This is my homework from SoftUni courses.
 
 -- The repository will include exercises with:
