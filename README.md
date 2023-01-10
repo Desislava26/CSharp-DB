@@ -14,3 +14,13 @@ This is my homework from SoftUni courses.
 
 
 * Entity Framework
+1. ADO.NET
+2. ORM Fundamentals
+3. Entity Framework Introduction
+4. Entity Relations
+5. LINQ
+6. Advanced Querying
+7. C# Auto Mapping Objects
+8. JSON Processing
+9. XML Processing
+10. Best Practices And Architecture
